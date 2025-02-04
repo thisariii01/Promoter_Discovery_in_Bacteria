@@ -50,25 +50,6 @@ This project focuses on identifying promoters in the bacterial genome of *Azotob
 - NumPy
 - Matplotlib
 
-## Installation
-```bash
-# Clone the repository
-git clone https://github.com/your-repo/promoter-discovery.git
-cd promoter-discovery
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-## Usage
-1. **Prepare Input Data**: Ensure genome sequences are available in FASTA format.
-2. **Run Analysis**:
-   ```bash
-   python promoter_analysis.py --input genome.fna --output results.txt
-   ```
-3. **Visualize Results**:
-   - Use `matplotlib` to generate promoter position and length distribution histograms.
-
 ## Contributors
 - **A. T. P. Amarasekara** (University of Moratuwa, Sri Lanka)
 
